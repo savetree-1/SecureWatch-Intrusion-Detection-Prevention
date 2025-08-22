@@ -260,7 +260,7 @@ If this project helped you, please consider giving it a star!
 
 ---
 
-**Developed with ❤️ by Ankush RFawat**
+**Developed with ❤️ by Ankush Rawat**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=435&lines=Thanks+for+visiting!;Stay+secure+and+monitor+smart!" alt="Typing SVG" />
 
