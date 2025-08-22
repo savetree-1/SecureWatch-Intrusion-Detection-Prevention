@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=savetree-1&repo=SecureWatch&theme=matrix&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=savetree-1&repo=SecureWatch-Intrusion-Detection-Prevention&theme=matrix&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41" />
 </p>
 
 ---
@@ -110,8 +110,8 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/savetree-1/SecureWatch.git
-cd SecureWatch
+git clone https://github.com/savetree-1/SecureWatch-Intrusion-Detection-Prevention.git
+cd SecureWatch-Intrusion-Detection-Prevention
 
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
@@ -256,7 +256,7 @@ The system is designed with modularity in mind. Customize monitoring intervals, 
 
 If this project helped you, please consider giving it a star!
 
-<img src="https://img.shields.io/github/stars/savetree-1/SecureWatch?style=social" />
+<img src="https://img.shields.io/github/stars/savetree-1/SecureWatch-Intrusion-Detection-Prevention?style=social" />
 
 ---
 
